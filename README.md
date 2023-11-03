@@ -4,8 +4,9 @@
 
 ```sh
 #Installation de l'application
-gh repo clone MickaelBen/tp_react_cuisine
-cd tp_react_cuisine
+wget -O tp_react_cuisine.zip  https://github.com/MickaelBen/tp_react_cuisine/archive/refs/heads/master.zip
+unzip tp_react_cuisine.zip
+cd tp_react_cuisine-master
 npm install
 ```
 
