@@ -2,9 +2,19 @@
 
 ## Installation & Lancement
 
+```sh
+#Installation de l'application
+gh repo clone MickaelBen/tp_react_cuisine
+cd tp_react_cuisine
+npm install
+```
 
+```sh
+#Lancer l'application
+npm run dev
+```
 
-
+Le TP a été produit par Clément LE GUILLOU et Mickael BENLALLI.
 
 
 ##  Sujet
